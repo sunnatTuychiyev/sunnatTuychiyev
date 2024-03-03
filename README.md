@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnattuychiyev&label=Profile%20views&color=0e75b6&style=flat" alt="sunnattuychiyev" /> </p>
 
-
 - 📫 How to reach me **uzchit77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
